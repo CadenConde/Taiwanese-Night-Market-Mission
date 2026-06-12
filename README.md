@@ -17,8 +17,9 @@ Developed as part of the CLLC / OHI/O World Language Appathon, the project place
 
 <img src="media/vender.jpg" alt="AI Conversation System" width="480">
 
-### Appathon Champions
+### Appathon Champions!
 <img src="media/appathon-winning.jpg" alt="Winning Team" width="480">
+
 ---
 
 ## The Story
